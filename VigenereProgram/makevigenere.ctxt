@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=makevigenere
+comment1.params=
+comment1.target=makevigenere()
+comment2.params=wd
+comment2.target=void\ vigenere(java.lang.String)
+comment3.params=word
+comment3.target=void\ translatewords(java.lang.String)
+comment4.params=m\ sen
+comment4.target=java.lang.StringBuilder\ getonecaeser(java.lang.String,\ java.lang.StringBuilder)
+comment5.params=i
+comment5.target=java.lang.String\ getvigenere(int)
+numComments=6
